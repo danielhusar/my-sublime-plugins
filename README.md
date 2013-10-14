@@ -16,3 +16,9 @@ My sublime plugins
 - Theme - Soda
 - VCS Gutter
 - WordHighlight
+- Sidebar enchancements
+- BracketHighligher
+- Browser refresh
+- Dotfiles syntax highlighting
+- Terminal
+- Emmet
