@@ -22,3 +22,4 @@ My sublime plugins
 - Dotfiles syntax highlighting
 - Terminal
 - Emmet
+- Colorpicker
