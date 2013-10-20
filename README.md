@@ -23,3 +23,4 @@ My sublime plugins
 - Terminal
 - Emmet
 - Colorpicker
+- Mou.app markdown
