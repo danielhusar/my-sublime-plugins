@@ -42,6 +42,8 @@ Sync between devices
 9. The command to create a symlink is ln -s [source] [destination], so we want to do the following, 1 at a time:
 (change the dropbox location)
 
-ln -s ~/Dropbox/Sublime\ Text\ 2/Installed\ Packages ./Installed\ Packages
-ln -s ~/Dropbox/Sublime\ Text\ 2/Packages ./Packages
-ln -s ~/Dropbox/Sublime\ Text\ 2/Pristine\ Packages ./Pristine\ Packages
+```
+  ln -s ~/Dropbox/Sublime\ Text\ 2/Installed\ Packages ./Installed\ Packages
+  ln -s ~/Dropbox/Sublime\ Text\ 2/Packages ./Packages
+  ln -s ~/Dropbox/Sublime\ Text\ 2/Pristine\ Packages ./Pristine\ Packages
+```
