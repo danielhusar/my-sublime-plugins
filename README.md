@@ -52,7 +52,7 @@ Sync between devices
 Shortcuts
 =========
 
-cmd + b - create minified version
-cmd + ctrl + x - add prefixes to css
-ctrl + g - go to line
-alt + up/down arrows - increnemt/decerement values
+- cmd + b - create minified version
+- cmd + ctrl + x - add prefixes to css
+- ctrl + g - go to line
+- alt + up/down arrows - increnemt/decerement values
