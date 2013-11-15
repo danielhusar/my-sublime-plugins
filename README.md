@@ -47,3 +47,12 @@ Sync between devices
   ln -s ~/Dropbox/_dev/Sublime\ Text\ 2/Packages ./Packages
   ln -s ~/Dropbox/_dev/Sublime\ Text\ 2/Pristine\ Packages ./Pristine\ Packages
 ```
+
+
+Shortcuts
+=========
+
+cmd + b - create minified version
+cmd + ctrl + x - add prefixes to css
+ctrl + g - go to line
+alt + up/down arrows - increnemt/decerement values
