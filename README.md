@@ -1,11 +1,12 @@
 My sublime plugins
 ==================
 
+- All Autocomplete (will break colon after css autocomplete when there is empty lien before)
 - Alignment
 - DocBlockr
 - Abacus
 - Grunt
-- Hayaku
+- Hayaku (will break css autocomplete values)
 - HTMLBeautify
 - Inc-Dec-Value
 - JavaScript Snippets
