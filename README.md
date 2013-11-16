@@ -56,3 +56,4 @@ Shortcuts
 - cmd + ctrl + x - add prefixes to css
 - ctrl + g - go to line
 - alt + up/down arrows - increnemt/decerement values
+- ctrl + h - search the dash docset
