@@ -43,9 +43,9 @@ Sync between devices
 (change the dropbox location)
 
 ```
-  ln -s ~/Dropbox/_dev/Sublime\ Text\ 2/Installed\ Packages ./Installed\ Packages
-  ln -s ~/Dropbox/_dev/Sublime\ Text\ 2/Packages ./Packages
-  ln -s ~/Dropbox/_dev/Sublime\ Text\ 2/Pristine\ Packages ./Pristine\ Packages
+  ln -s ~/Dropbox/_sync/Sublime\ Text\ 2/Installed\ Packages ./Installed\ Packages
+  ln -s ~/Dropbox/_sync/Sublime\ Text\ 2/Packages ./Packages
+  ln -s ~/Dropbox/_sync/Sublime\ Text\ 2/Pristine\ Packages ./Pristine\ Packages
 ```
 
 
