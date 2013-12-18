@@ -57,3 +57,5 @@ Shortcuts
 - ctrl + g - go to line
 - alt + up/down arrows - increnemt/decerement values
 - ctrl + h - search the dash docset
+- cmd + ctrl + j - pretty json
+- cmd + shift + d - duplicate line
