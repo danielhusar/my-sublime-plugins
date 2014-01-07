@@ -59,3 +59,4 @@ Shortcuts
 - ctrl + h - search the dash docset
 - cmd + ctrl + j - pretty json
 - cmd + shift + d - duplicate line
+- ctrl + w - wrap selected text
